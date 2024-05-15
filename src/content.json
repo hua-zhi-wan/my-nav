@@ -1,0 +1,103 @@
+[
+    {
+        "name": "实用工具",
+        "icon": "",
+        "cards": [
+            {
+                "url": "https://huazhiwan.xyz",
+                "title": "Short-URL",
+                "logo": "img/github-mark.svg",
+                "desc": "短链，但是Serverless"
+            },
+            {
+                "url": "https://webhandright.huazhiwan.xyz",
+                "title": "手写字体生成",
+                "logo": "img/webhandright.webp",
+                "desc": "手写字生成器，但是Serverless"
+            },
+            {
+                "url": "https://mix.huazhiwan.xyz",
+                "title": "混音助手",
+                "logo": "img/mix_helper.png",
+                "desc": "隔壁做这个听说花了大几千，吓得我半小时做了一个支持PWA的……"
+            },
+            {
+                "url": "https://1page.huazhiwan.xyz",
+                "title": "1Page",
+                "logo": "img/github-mark.svg",
+                "desc": "创建一个临时的快速分享页面！"
+            },
+            {
+                "url": "https://hanayabuki.github.io/sacabambaspis",
+                "title": "萨卡班甲鱼！",
+                "logo": "img/sacabambaspis.png",
+                "desc": "用HTML+CSS画一只萨卡班甲鱼！"
+            },
+            {
+                "url": "https://hanayabuki.github.io/Aircraftwars/release",
+                "title": "Aircraft Wars",
+                "logo": "img/github-mark.svg",
+                "desc": "高中写的一个标准H5飞行射击游戏Demo，现在看来技术力还是比较低的（"
+            }
+        ]
+    },
+    {
+        "name": "抽象工具",
+        "icon": "",
+        "cards": [
+            {
+                "url": "https://otto-hzys.huazhiwan.xyz",
+                "title": "电棍活字印刷",
+                "logo": "img/otto_lizi.jpg",
+                "desc": "贼几把快的活字印刷生成器。"
+            },
+            {
+                "url": "https://aminoac.huazhiwan.xyz",
+                "title": "阿米诺斯语翻译器",
+                "logo": "img/aminoac.png",
+                "desc": "阿米诺斯语转换与练读。"
+            }
+        ]
+    },
+    {
+        "name": "超酷开源项目",
+        "icon": "",
+        "cards": [
+            {
+                "url": "https://github.com/kula-lang",
+                "title": "Kula 编程语言",
+                "logo": "img/kula.png",
+                "desc": "超级可爱的脚本语言！C#做的！"
+            },
+            {
+                "url": "https://github.com/HanaYabuki/loafing-reader",
+                "title": "Loafing-Reader 摸鱼小说阅读器",
+                "logo": "data:image/svg+xml,%3C?xml%20version=%271.0%27%20encoding=%27utf-8%27?%3E%3Csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20viewBox=%270%200%20400%20400%27%3E%3Cg%20id=%27XMLID_273_%27%3E%3Cg%20id=%27XMLID_78_%27%3E%3Cpath%20id=%27XMLID_83_%27%20class=%27st0%27%20d=%27M304.8,0H95.2C42.6,0,0,42.6,0,95.2v209.6C0,357.4,42.6,400,95.2,400h209.6%20c52.6,0,95.2-42.6,95.2-95.2V95.2C400,42.6,357.4,0,304.8,0z%20M106.3,375C61.4,375,25,338.6,25,293.8c0-44.9,36.4-81.3,81.3-81.3%20c44.9,0,81.3,36.4,81.3,81.3C187.5,338.6,151.1,375,106.3,375z%20M293.8,375c-44.9,0-81.3-36.4-81.3-81.3%20c0-44.9,36.4-81.3,81.3-81.3c44.9,0,81.3,36.4,81.3,81.3C375,338.6,338.6,375,293.8,375z%27/%3E%3C/g%3E%3Cg%20id=%27XMLID_67_%27%20class=%27st2%27%3E%3Cpath%20id=%27XMLID_74_%27%20class=%27st3%27%20d=%27M304.8,0H95.2C42.6,0,0,42.6,0,95.2v209.6C0,357.4,42.6,400,95.2,400h209.6%20c52.6,0,95.2-42.6,95.2-95.2V95.2C400,42.6,357.4,0,304.8,0z%20M106.3,375C61.4,375,25,338.6,25,293.8c0-44.9,36.4-81.3,81.3-81.3%20c44.9,0,81.3,36.4,81.3,81.3C187.5,338.6,151.1,375,106.3,375z%20M293.8,375c-44.9,0-81.3-36.4-81.3-81.3%20c0-44.9,36.4-81.3,81.3-81.3c44.9,0,81.3,36.4,81.3,81.3C375,338.6,338.6,375,293.8,375z%27/%3E%3C/g%3E%3C/g%3E%3C/svg%3E",
+                "desc": "油猴插件，内嵌浏览器里用来上班摸鱼看小说。"
+            },
+            {
+                "url": "https://hanayabuki.github.io/basic2lisp",
+                "title": "Basic-2-Lisp",
+                "logo": "img/github-mark.svg",
+                "desc": "Basic To Lisp 编译器 + Lisp 解释器，但……"
+            }
+        ]
+    },
+    {
+        "name": "关于我",
+        "icon": "",
+        "cards": [
+            {
+                "url": "https://github.com/HanaYabuki",
+                "title": "Github 主页",
+                "desc": "Coder形态在这儿！"
+            },
+            {
+                "url": "https://space.bilibili.com/496956009",
+                "title": "bilibili 个人空间",
+                "desc": "唱见形态在这里！",
+                "logo": "img/huazhiwan-avatar.jpg"
+            }
+        ]
+    }
+]
