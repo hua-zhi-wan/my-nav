@@ -28,13 +28,13 @@
                 "desc": "创建一个临时的快速分享页面！"
             },
             {
-                "url": "https://hanayabuki.github.io/sacabambaspis",
+                "url": "https://hua-zhi-wan.github.io/sacabambaspis",
                 "title": "萨卡班甲鱼！",
                 "logo": "img/sacabambaspis.png",
                 "desc": "用HTML+CSS画一只萨卡班甲鱼！"
             },
             {
-                "url": "https://hanayabuki.github.io/Aircraftwars/release",
+                "url": "https://hua-zhi-wan.github.io/Aircraftwars/release",
                 "title": "Aircraft Wars",
                 "logo": "img/github-mark.svg",
                 "desc": "高中写的一个标准H5飞行射击游戏Demo，现在看来技术力还是比较低的（"
@@ -70,13 +70,13 @@
                 "desc": "超级可爱的脚本语言！C#做的！"
             },
             {
-                "url": "https://github.com/HanaYabuki/loafing-reader",
+                "url": "https://github.com/hua-zhi-wan/loafing-reader",
                 "title": "Loafing-Reader 摸鱼小说阅读器",
                 "logo": "data:image/svg+xml,%3C?xml%20version=%271.0%27%20encoding=%27utf-8%27?%3E%3Csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20viewBox=%270%200%20400%20400%27%3E%3Cg%20id=%27XMLID_273_%27%3E%3Cg%20id=%27XMLID_78_%27%3E%3Cpath%20id=%27XMLID_83_%27%20class=%27st0%27%20d=%27M304.8,0H95.2C42.6,0,0,42.6,0,95.2v209.6C0,357.4,42.6,400,95.2,400h209.6%20c52.6,0,95.2-42.6,95.2-95.2V95.2C400,42.6,357.4,0,304.8,0z%20M106.3,375C61.4,375,25,338.6,25,293.8c0-44.9,36.4-81.3,81.3-81.3%20c44.9,0,81.3,36.4,81.3,81.3C187.5,338.6,151.1,375,106.3,375z%20M293.8,375c-44.9,0-81.3-36.4-81.3-81.3%20c0-44.9,36.4-81.3,81.3-81.3c44.9,0,81.3,36.4,81.3,81.3C375,338.6,338.6,375,293.8,375z%27/%3E%3C/g%3E%3Cg%20id=%27XMLID_67_%27%20class=%27st2%27%3E%3Cpath%20id=%27XMLID_74_%27%20class=%27st3%27%20d=%27M304.8,0H95.2C42.6,0,0,42.6,0,95.2v209.6C0,357.4,42.6,400,95.2,400h209.6%20c52.6,0,95.2-42.6,95.2-95.2V95.2C400,42.6,357.4,0,304.8,0z%20M106.3,375C61.4,375,25,338.6,25,293.8c0-44.9,36.4-81.3,81.3-81.3%20c44.9,0,81.3,36.4,81.3,81.3C187.5,338.6,151.1,375,106.3,375z%20M293.8,375c-44.9,0-81.3-36.4-81.3-81.3%20c0-44.9,36.4-81.3,81.3-81.3c44.9,0,81.3,36.4,81.3,81.3C375,338.6,338.6,375,293.8,375z%27/%3E%3C/g%3E%3C/g%3E%3C/svg%3E",
                 "desc": "油猴插件，内嵌浏览器里用来上班摸鱼看小说。"
             },
             {
-                "url": "https://hanayabuki.github.io/basic2lisp",
+                "url": "https://hua-zhi-wan.github.io/basic2lisp",
                 "title": "Basic-2-Lisp",
                 "logo": "img/github-mark.svg",
                 "desc": "Basic To Lisp 编译器 + Lisp 解释器，但……"
@@ -88,7 +88,7 @@
         "icon": "",
         "cards": [
             {
-                "url": "https://github.com/HanaYabuki",
+                "url": "https://github.com/hua-zhi-wan",
                 "title": "Github 主页",
                 "desc": "Coder形态在这儿！"
             },

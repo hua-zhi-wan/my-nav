@@ -104,7 +104,7 @@ const App = () => (
                             background: '#fff'
                         }}
                         extra={[
-                            <a href='https://github.com/HanaYabuki' >
+                            <a href='https://github.com/hua-zhi-wan' >
                                 <GithubOutlined style={{
                                     fontSize: '1.5em'
                                 }} />
@@ -127,7 +127,7 @@ const App = () => (
                     </Layout.Content>
                     <Layout.Footer>
                         <Divider />
-                        <p> Copyright© 2023 花枝丸聚合 design by HanaYabuki</p>
+                        <p> Copyright© 2023 花枝丸聚合 design by hua-zhi-wan</p>
                     </Layout.Footer>
                 </Layout>
             </Layout.Content>
