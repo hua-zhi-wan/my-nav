@@ -56,6 +56,12 @@
                 "title": "阿米诺斯语翻译器",
                 "logo": "img/aminoac.png",
                 "desc": "阿米诺斯语转换与练读。"
+            },
+            {
+                "url": "https://otto64.huazhiwan.xyz",
+                "title": "otto64 - 棍语编码",
+                "logo": "img/shuodedaoli.png",
+                "desc": "棍语编码器，可以把任意文本信息编码为棍语，支持无损解码。"
             }
         ]
     },
