@@ -4,25 +4,25 @@
         "icon": "",
         "cards": [
             {
-                "url": "https://huazhiwan.xyz",
+                "url": "https://shorturl.huazhiwan.top",
                 "title": "Short-URL",
                 "logo": "img/github-mark.svg",
                 "desc": "短链，但是Serverless"
             },
             {
-                "url": "https://webhandright.huazhiwan.xyz",
+                "url": "https://webhandright.huazhiwan.top",
                 "title": "手写字体生成",
                 "logo": "img/webhandright.webp",
                 "desc": "手写字生成器，但是Serverless"
             },
             {
-                "url": "https://mix.huazhiwan.xyz",
+                "url": "https://mix.huazhiwan.top",
                 "title": "混音助手",
                 "logo": "img/mix_helper.png",
                 "desc": "隔壁做这个听说花了大几千，吓得我半小时做了一个支持PWA的……"
             },
             {
-                "url": "https://1page.huazhiwan.xyz",
+                "url": "https://1page.huazhiwan.top",
                 "title": "1Page",
                 "logo": "img/github-mark.svg",
                 "desc": "创建一个临时的快速分享页面！"
@@ -46,19 +46,19 @@
         "icon": "",
         "cards": [
             {
-                "url": "https://otto-hzys.huazhiwan.xyz",
+                "url": "https://otto-hzys.huazhiwan.top",
                 "title": "电棍活字印刷",
                 "logo": "img/otto_lizi.jpg",
                 "desc": "贼几把快的活字印刷生成器。"
             },
             {
-                "url": "https://aminoac.huazhiwan.xyz",
+                "url": "https://aminoac.huazhiwan.top",
                 "title": "阿米诺斯语翻译器",
                 "logo": "img/aminoac.png",
                 "desc": "阿米诺斯语转换与练读。"
             },
             {
-                "url": "https://otto64.huazhiwan.xyz",
+                "url": "https://otto64.huazhiwan.top",
                 "title": "otto64 - 棍语编码",
                 "logo": "img/shuodedaoli.png",
                 "desc": "棍语编码器，可以把任意文本信息编码为棍语，支持无损解码。"
